@@ -2,10 +2,5 @@
   "version_name": "1.1",
   "version_code": 1,
   "apk_url": "https://raw.githubusercontent.com/SkyComixStudioApp/Clyra/main/Apk/Clyra.apk",
-  "force_update": true,
-  "changelog": [
-    "Añadida sección de cómics",
-    "Buscador cargado desde JSON",
-    "Sistema de actualización automática"
-  ]
+  "force_update": true
 }
